@@ -14,7 +14,7 @@ public class kup {
 		
 		System.out.println("Hacim : " + x*x*x);
 		System.out.println("");
-		System.out.println("Alan : " + 6*x*x);
+		System.out.println("Alan : " + 6*x*x);  
 		
 		
 	}
